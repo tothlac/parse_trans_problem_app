@@ -1,0 +1,4 @@
+[{<<"parse_trans">>,
+  {git,"https://github.com/uwiger/parse_trans.git",
+       {ref,"56f5c6cad48eaca8e0b2626e0df3587e6bf2da6e"}},
+  1}].
