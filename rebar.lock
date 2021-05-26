@@ -2,7 +2,7 @@
 [{<<"parse_trans">>,{pkg,<<"parse_trans">>,<<"3.4.0">>},1},
  {<<"parse_trans_problem_dep">>,
   {git,"git@github.com:tothlac/parse_trans_problem_dep.git",
-       {ref,"8c7a001e3316ef3802ada001684b38792b73e65d"}},
+       {ref,"081f51e66d1e430334b5cbe4ab9074a28f6aa2b3"}},
   0}]}.
 [
 {pkg_hash,[
