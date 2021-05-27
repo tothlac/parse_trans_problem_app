@@ -1,10 +1,14 @@
 {"1.1.0",
-[{<<"parse_trans">>,{pkg,<<"parse_trans">>,<<"3.3.0">>},1},
+[{<<"parse_trans">>,{pkg,<<"parse_trans">>,<<"3.3.1">>},1},
+ {<<"parse_trans_problem_app2">>,
+  {git,"git@github.com:tothlac/parse_trans_problem_app2.git",
+       {ref,"3d3effe97ed3aa6ca27787dc6377b2d23be729a4"}},
+  0},
  {<<"parse_trans_problem_dep">>,
   {git,"git@github.com:tothlac/parse_trans_problem_dep.git",
-       {ref,"081f51e66d1e430334b5cbe4ab9074a28f6aa2b3"}},
+       {ref,"3c68ddb2ceff0ea78ad88d472a80ba9c0fb454a5"}},
   0}]}.
 [
 {pkg_hash,[
- {<<"parse_trans">>, <<"09765507A3C7590A784615CFD421D101AEC25098D50B89D7AA1D66646BC571C1">>}]}
+ {<<"parse_trans">>, <<"16328AB840CC09919BD10DAB29E431DA3AF9E9E7E7E6F0089DD5A2D2820011D8">>}]}
 ].
